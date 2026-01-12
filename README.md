@@ -30,6 +30,8 @@ Kevlar Line, Cardboard, Hot Glue, Foam Board, Superglue, 3D Printed Cone, Breadb
 
 ## $\color{#FFBF00}{Technical~Troubles:}$ 
 One challenge was not being able to tie all of the strings tight enough. In order for the mechanism to work, each petal has to  be tied with an equal amount of tension onto the central ring so that they all move evenly. As the bottom petal loops were not all the exact same, this was quite difficult and I had to retie the strings multiple times. It was also difficult to tie the string onto the servo because there had to be extra slack so I could lift up the base to be able to tie the servo as it was mounted. I also encountered issues with the software side, as I encountered error codes quite frequently while uploading the code. The solutions to these were to try different laptops, use the ATmega328P Old Bootloader, and just keep trying again and again. 
+<img width="691" height="919" alt="image" src="https://github.com/user-attachments/assets/b6a89a50-8eac-4e75-81fa-44bd1dea9441" />
+
 
 ## $\color{#FFBF00}{Future~Improvements:}$
 I would like to implement solar tracking as another biomimicry aspect to this project. This could be implemented by using a lazy susan gear, and another servo. I could fix the base of the project to the top aprt of the lazy susan and fasten a small gear underneath, and then have a servo on the side to turn that gear. I could also have the servo turn to a higher angle (180+) for an even more closed petal.
