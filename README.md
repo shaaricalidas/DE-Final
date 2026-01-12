@@ -6,6 +6,9 @@
 The goal of this project was to create a robot whose petals open/close in the presence/absence of light. I was inspired by the abilities of flowers to open/close and orient their petals towards the direction of sunlight. 
 ###### **The code files are in the "Code" branch of this repository.**
 
+![gif de flower](https://github.com/user-attachments/assets/4ad6cd50-770f-4ede-9139-f2002ac62a4a)
+
+
 ## $\color{#FFBF00}{Parts:}$ 
 #### 1. 2000 Series Dual Mode Servo (25-2, Torque)
 This servo was used because it is heavy-duty and provided adequate torque for this project.
