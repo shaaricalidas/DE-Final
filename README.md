@@ -9,10 +9,19 @@ The goal of this project was to create a robot whose petals open/close in the pr
 ## $\color{#FFBF00}{Parts:}$ 
 #### 1. 2000 Series Dual Mode Servo (25-2, Torque)
 This servo was used because it is heavy-duty and provided adequate torque for this project.
+
+<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/dc39e335-caae-4c29-af1d-5ff4d68b1181" />
+
 #### 2. Arduino Nano Board
 The Arduino Nano was chosen because it was compact and provided all of the needed capabilities (Pulse-Width Modulation).
+
+<img width="926" height="450" alt="image" src="https://github.com/user-attachments/assets/15eab64b-e86f-4aa2-8d05-78c3f3e80e01" />
+
 #### 3. Photoresistors
 The photoresistors were chosen as the sensor. The resistance increases as the amount of light on the face of the photoresistor increases. In order to use these, a 10K ohm pull down resistor also needs to be wired up to it.
+
+<img width="270" height="225" alt="image" src="https://github.com/user-attachments/assets/76ad4157-9a6f-41c8-bf1c-c3da8b674eeb" />
+
 #### 4. 16 Gauge 1.5 mm aluminum craft wire
 The wire was used to form the petals and the support bars. It is a light, easy to mold wire that allowed me to create the forms I needed for this project.
 #### Other parts:
